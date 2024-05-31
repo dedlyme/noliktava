@@ -18,23 +18,23 @@ import { useForm } from "@inertiajs/react";
                         </div>
 
                     <ul className="flex items-center">
-                        <li className="mr-6">
+                        <li className="mr-6 transition duration-150 ease-out hover:ease-in hover:bg-sky-900 p-2 rounded-md ">
                             <a href="/dashboard">Dashboard</a>
                         </li>
 
-                        <li className="mr-6">
+                        <li className="mr-6 transition duration-150 ease-out hover:ease-in hover:bg-sky-900 p-2 rounded-md">
                             <a href="/reports">Reports</a>
                         </li>
 
-                        <li className="mr-6">
+                        <li className="mr-6 transition duration-150 ease-out hover:ease-in hover:bg-sky-900 p-2 rounded-md">
                             <a href="/users">Users</a>
                         </li>
 
-                        <li className="mr-6">
+                        <li className="mr-6 transition duration-150 ease-out hover:ease-in hover:bg-sky-900 p-2 rounded-md">
                             <a href="/shelves">Shelves</a>
                         </li>
 
-                        <li className="mr-6">
+                        <li className="mr-6 transition duration-150 ease-out hover:ease-in hover:bg-sky-900 p-2 rounded-md">
                             <a href="/products">Products</a>
                         </li>
 
